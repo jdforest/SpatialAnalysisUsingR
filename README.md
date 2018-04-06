@@ -13,7 +13,7 @@ In this repository, you will find three scripts and data for the workshop.
 
 This workshop will cover the basics in spatial analysis within the R programming environment. Topics covered include basic spatial operations and storage of data, vector and raster manipulation, packages and functions that offer tools analogous to ones offered in QGIS/ArcGIS and basics of static mapping.  
 
-Basic knowledge of R and ArcGIS/QGIS is required.
+Basic knowledge of R and Spatial Analysis is required.
 
-**Caveat** By no means is this workshop meant to cover all possible types of spatial analyses within R, but the hope is to provide a glimpse of analyses possible, that would often otherwise trouble you within a GUI environment. Further, this workshop is meant to cater to users with differing levels of experience in R and spatial analysis and is not meant to be for advanced users.  
+**Caveat**: By no means is this workshop meant to cover all possible types of spatial analyses within R, but the hope is to provide a glimpse of analyses possible, that would often otherwise trouble you within a GUI environment. Further, this workshop is meant to cater to users with differing levels of experience in R and spatial analysis and is not meant to be for advanced users.  
 
