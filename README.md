@@ -15,5 +15,5 @@ This workshop will cover the basics in spatial analysis within the R programming
 
 Basic knowledge of R and Spatial Analysis is required.
 
-**Caveat**: By no means is this workshop meant to cover all possible types of spatial analyses within R, but the hope is to provide a glimpse of analyses possible, that would often otherwise trouble you within a GUI environment. Further, this workshop is meant to cater to users with differing levels of experience in R and spatial analysis and is not meant to be for advanced users.  
+**Caveat**: By no means is this workshop meant to cover all possible types of spatial analyses within R, but the hope is to provide a glimpse of analyses possible. Further, this workshop is meant to cater to users with differing levels of experience in R and spatial analysis and is not meant to be for advanced users.  
 
