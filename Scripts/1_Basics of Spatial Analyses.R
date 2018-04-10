@@ -197,7 +197,7 @@ r  <- rasterize(WG, WG_rast)
 # One can use rasterToPolygons (takes a lot of TIME, BEWARE!)
 # Instead, I recommend using the efficient helper code written by John Baumgartner
 
-source('C:\\Users\\vr235\\Desktop\\Spatial Analysis in R - SCCS 2017\\Polygonize.R')
+source('C:\\Users\\vr235\\Desktop\\US-IALE2018\\Polygonize.R')
 
 # NOTE - you need to have GDAL or OSGeo4W installed on your system to run the above function
 # Follow instructions from Albert Kochaphum - https://sandbox.idre.ucla.edu/sandbox/tutorials/installing-gdal-for-windows

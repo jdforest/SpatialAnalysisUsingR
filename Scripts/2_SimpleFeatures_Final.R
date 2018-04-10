@@ -44,7 +44,7 @@ st_write(nc, "nc.shp", delete_layer = T) # Delete_layer ensures that layers are 
 nc.web.mercator <- st_transform(nc, 3857)
 
 # Calculate distance between geometries
-dist <- st_distance(nc.web.mercator) # Provides a Matrix of distances between combinations of polygons
+#dist <- st_distance(nc.web.mercator) # Provides a Matrix of distances between combinations of polygons
 
 # Drawing Buffers around selected geomtery of choice
 sel <- c(1,5,14)
@@ -55,6 +55,8 @@ plot(geom, add = TRUE)
 plot(st_buffer(geom, -5000), add = TRUE, border = 'blue')
 
 # Calculating areas
+install.packages("lwgeom")
+library(lwgeom)
 st_area(nc)
 
 # A field can take 3 possibilities : constant, aggregate annd identity 
